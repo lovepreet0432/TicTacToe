@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          new branch
+          new branch 3 commit
         </a>
       </header>
     </div>
