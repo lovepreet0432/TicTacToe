@@ -15,8 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+<<<<<<< HEAD
           Hello world!!!sdsfd
       </a>
+=======
+          Hello world!!!
+        </a>
+>>>>>>> 70004238ba78c1e6634674687336f4a7c3805a4d
       </header>
     </div>
   );
